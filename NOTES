@@ -5,3 +5,11 @@
 
 --------------------------------------------- fetch('link')
 Default for "Get" api
+
+//////////////////////////////////////////////////////////////////////////////////////
+
+## 2 Handling Loading & Data States
+
+- implemented
+  => "App.js" (useState(true/false) to set loading message "before/after" "async/await" data)
+  Handling Data in JSX with "{}"
