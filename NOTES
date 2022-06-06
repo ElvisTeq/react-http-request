@@ -13,3 +13,18 @@ Default for "Get" api
 - implemented
   => "App.js" (useState(true/false) to set loading message "before/after" "async/await" data)
   Handling Data in JSX with "{}"
+
+//////////////////////////////////////////////////////////////////////////////////////
+
+## 3 Handling HTTP errors
+
+- Implemented
+  => "App.js" (try/catch, useState() to setError)
+
+//////////////////////////////////////////////////////////////////////////////////////
+
+## 4 Using useEffect() for Request
+
+- Implemented
+  => "App.js" (useEffect() to fetch data automatically at the end of event cycle)
+  (useCallBack() only runs when one of its dependencies update => To avoid infnite loop with useEffect())
