@@ -28,3 +28,12 @@ Default for "Get" api
 - Implemented
   => "App.js" (useEffect() to fetch data automatically at the end of event cycle)
   (useCallBack() only runs when one of its dependencies update => To avoid infnite loop with useEffect())
+
+//////////////////////////////////////////////////////////////////////////////////////
+
+## 5 Sending POST request
+
+- Implemented
+  => "App.js" (using fetch to POST data) in "addMovieHandler()"
+
+-------------------------------------------------- fetch('URL', { method: 'POST' })
