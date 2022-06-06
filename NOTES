@@ -1,0 +1,7 @@
+## 1 Sending Get Request
+
+- Implemented
+  => "App.js" (get data using "async/await", using data with "useState")
+
+--------------------------------------------- fetch('link')
+Default for "Get" api
